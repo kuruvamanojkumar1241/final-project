@@ -1,0 +1,12 @@
+flask
+werkzeug
+numpy
+pandas
+opencv-python
+tensorflow
+matplotlib
+scikit-learn
+groq
+python-dotenv
+torch
+torchvision
